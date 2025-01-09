@@ -54,8 +54,8 @@ Once the application is running, you can interact with the finance AI agent thro
 - "What is the stock price of Tesla?"
 - "Show me the financial report for Apple."
 - "Give me the latest stock market news."
-
-![Screenshot 2025-01-09 124239](https://github.com/user-attachments/assets/5be7a646-0d1b-477f-a996-a38fc0531abe)
+- 
+![Screenshot 2025-01-09 124818](https://github.com/user-attachments/assets/4e78243d-db18-4277-8aa3-23c6466ca8c5)
 
 
 ## Contributing

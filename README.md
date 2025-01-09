@@ -61,4 +61,8 @@ Once the application is running, you can interact with the finance AI agent thro
 ## Contributing
 If you wish to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. Please ensure that your code adheres to the project’s coding standards.
 
+## Sample
+![Screenshot 2025-01-09 124239](https://github.com/user-attachments/assets/4e4d8f30-4aef-4bb2-b4dc-bde92cfda8d2)
+
+
 

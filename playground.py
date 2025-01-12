@@ -11,7 +11,7 @@ from phi.playground import Playground , serve_playground_app
 load_dotenv()
 
 phi.api = os.getenv("PHI_API_KEY")
-print(os.getenv("GROQ_API_KEY"))
+print(os.getenv("Google_API_KEY"))
 
 
 ## Live_web_search
